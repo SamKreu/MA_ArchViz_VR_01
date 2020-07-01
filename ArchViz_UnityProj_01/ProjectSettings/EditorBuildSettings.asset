@@ -6,13 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/TestScenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 0
-    path: Assets/Scenes/ArchScene_OVR_Camera_RIg.unity
+    path: Assets/Scenes/TestScenes/ArchScene_OVR_Camera_RIg.unity
     guid: 0574b5459ad37584eb6d297ead35cff5
-  - enabled: 1
-    path: Assets/Scenes/ArchScene_Smaller_House.unity
+  - enabled: 0
+    path: Assets/Scenes/TestScenes/ArchScene_Smaller_House.unity
     guid: 158b5a9658ee261408624f24ae7e8c47
   - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/Locomotion.unity
@@ -24,11 +24,17 @@ EditorBuildSettings:
     path: Assets/Oculus/VR/Scenes/ControllerModels.unity
     guid: 39cfe7aa0a2d46c47994d8d0308ec663
   - enabled: 0
-    path: Assets/Scenes/ArchScene_Smaller_House 1.unity
+    path: Assets/Scenes/TestScenes/ArchScene_Smaller_House 1.unity
     guid: efb3547bd046ef345a6661b2e048e0e5
   - enabled: 0
     path: Assets/Progress/MotionTool/Examples/AvatarTransferExample.unity
     guid: 4b7283081ac798c4f8f7575aae08a63b
+  - enabled: 0
+    path: Assets/Scenes/MA_ArchViz_different_materials.unity
+    guid: 4bc76e19e871caf4a93f165756de508d
+  - enabled: 1
+    path: Assets/Scenes/MA_ArchViz_01.unity
+    guid: 6b96c37b079dd8e459f5eeb38814a3b1
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 588b73432ae7ca546ad6e5c33148affd, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2a29c7b368597784b926a707119c5978, type: 2}
