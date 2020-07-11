@@ -32,9 +32,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/MA_ArchViz_different_materials.unity
     guid: 4bc76e19e871caf4a93f165756de508d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MA_ArchViz_01.unity
     guid: 6b96c37b079dd8e459f5eeb38814a3b1
+  - enabled: 1
+    path: Assets/Scenes/MA_ArchViz_TextureSizeNumber.unity
+    guid: 2d1d17e2f637d23449505b4dba6cf7fa
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 588b73432ae7ca546ad6e5c33148affd, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2a29c7b368597784b926a707119c5978, type: 2}

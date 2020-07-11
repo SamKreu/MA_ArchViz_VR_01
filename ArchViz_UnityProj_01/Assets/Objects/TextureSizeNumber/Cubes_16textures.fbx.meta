@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 7ffc46e1e1e60164397de4cf0aad1c8d
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube10_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: 448f179d7ed475c4ba92088614c269d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube12_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: 33f2bfece57e6234d8cf27006d094f65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube13_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: bfdfca0ddf041cf418568ac65665a6a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube14_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: d46fd165b012a40438b18bcf214d37d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube15_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: fd3e8ae28bbc53646b5839dbd735ef17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube17_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: b25da6f822d612f4b8c450b5e3af5b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube18_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: e95d0dd5d40225745819fdd74c00cfd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube19_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: 60f35dbb7609fc94f96d31ae4b66d43e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube20_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: df35531bf4a5a3c40b54aeb8da21a681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube22_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: c0da3eb3f84cd3b43bd5779599c3537e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube23_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: 1642c2c590cfa154b94bf10627922b74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube24_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: a681a095ac61b194381e7e8f41ec0de6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube25_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: f3e376a1f05f66b4ab6d2cacec7ecedd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube7_pCubeShape1_bakedmtl2
+    second: {fileID: 2100000, guid: cf34d1a066bf73b43982b3c7a9197117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube8_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: cf525ffd4d92f6640becdfba7e037883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube9_pCubeShape1_bakedmtl1
+    second: {fileID: 2100000, guid: 7c8cd5f19149dbf439066df97a01811e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube10_pCubeShape1
+    second: {fileID: 2800000, guid: 06da7dbcc644a8946bb327f96a81b92e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube12_pCubeShape1
+    second: {fileID: 2800000, guid: 7ccf3c46374ddac4190af757b1a1b0c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube13_pCubeShape1
+    second: {fileID: 2800000, guid: 3f9f78e354535f24fb36df0d6ded4961, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube14_pCubeShape1
+    second: {fileID: 2800000, guid: ff7b76ee9d49d4049b9d3ece835c88d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube15_pCubeShape1
+    second: {fileID: 2800000, guid: e4b953cd988303e4499513186b0c16e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube17_pCubeShape1
+    second: {fileID: 2800000, guid: 95198ef905f381044800a4734be82e0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube18_pCubeShape1
+    second: {fileID: 2800000, guid: c3d80e0fec1cedb47888b05fb0af59fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube19_pCubeShape1
+    second: {fileID: 2800000, guid: 301c85683de430f45b534605c2246055, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube20_pCubeShape1
+    second: {fileID: 2800000, guid: bd235620c3e48624fa032b04eb6900e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube22_pCubeShape1
+    second: {fileID: 2800000, guid: a46db2e65981cb9449ca9e6619636aea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube23_pCubeShape1
+    second: {fileID: 2800000, guid: 7628ef57c87f3dc41a49d99cc8fdc5b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube24_pCubeShape1
+    second: {fileID: 2800000, guid: 474edee3a3c157748b254b6b20df49a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube25_pCubeShape1
+    second: {fileID: 2800000, guid: 222eb077c47233241a43a784d9775f70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube7_pCubeShape1
+    second: {fileID: 2800000, guid: 16235e7cbba08cd46a49c6e7f32eb4ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube8_pCubeShape1
+    second: {fileID: 2800000, guid: ca63b8256d42c874aabfeb5afaa4d439, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube9_pCubeShape1
+    second: {fileID: 2800000, guid: 132724293b94332429c83bbe254fa936, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
