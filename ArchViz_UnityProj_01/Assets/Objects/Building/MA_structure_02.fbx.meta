@@ -3,7 +3,42 @@ guid: 79ce9db33e04e174490a72450223e812
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-UV02Shape2
+    second: {fileID: 2800000, guid: 7ae56b4c3fabb1445b1675ab5579c43c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-floor_top_0Shape1
+    second: {fileID: 2800000, guid: 647bdfc17fcc82a429ba6565eddf0a10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube159Shape
+    second: {fileID: 2800000, guid: a48e0f98946fb8246acbb97a9e820fb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-pCube76Shape
+    second: {fileID: 2800000, guid: f89919c97bab7d040a1f8c50d06a2d14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-polySurface103Shape
+    second: {fileID: 2800000, guid: f376fee075b071d4e8315fce295b6849, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-polySurface13Shape
+    second: {fileID: 2800000, guid: 61cbe2874b51ce74ba6f8e937c42adeb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baked-polySurface82Shape
+    second: {fileID: 2800000, guid: ddcbd5badbd91b24e92b909a20014826, type: 3}
   materials:
     materialImportMode: 1
     materialName: 0
